@@ -1,4 +1,4 @@
-# Snake-with-C
+# snake-game-c
 Snake Game feito em C.
 
 ![Screenshot](screenshot.png)
